@@ -1,0 +1,14 @@
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\bin\Debug\net9.0\DynamicModelBuilder.exe
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\bin\Debug\net9.0\DynamicModelBuilder.deps.json
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\bin\Debug\net9.0\DynamicModelBuilder.runtimeconfig.json
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\bin\Debug\net9.0\DynamicModelBuilder.dll
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\bin\Debug\net9.0\DynamicModelBuilder.pdb
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.AssemblyInfoInputs.cache
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.AssemblyInfo.cs
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.csproj.CoreCompileInputs.cache
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.dll
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\refint\DynamicModelBuilder.dll
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.pdb
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.genruntimeconfig.cache
+c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\ref\DynamicModelBuilder.dll
