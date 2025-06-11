@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicModelBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12c3fef0058dc3221e2496bc1197ca8056af08ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicModelBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicModelBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\
 c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.pdb
 c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.genruntimeconfig.cache
 c:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\ref\DynamicModelBuilder.dll
+C:\Users\timot\source\repos\Dynamic_Model_Builder\DynamicModelBuilder\obj\Debug\net9.0\DynamicModelBuilder.sourcelink.json

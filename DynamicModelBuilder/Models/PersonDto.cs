@@ -21,7 +21,5 @@ namespace DynamicModelBuilder.Models
 
         [Required]
         public string Department { get; set; }
-
-        public object IsManager { get; set; }
     }
 }

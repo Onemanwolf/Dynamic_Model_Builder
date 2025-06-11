@@ -10,7 +10,6 @@ namespace DynamicModelBuilder.Models
         public string Email { get; set; }
         public int Salary { get; set; }
         public string Department { get; set; }
-        public object IsManager { get; set; }
 
         /// <summary>
         /// Person must be of working age
