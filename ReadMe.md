@@ -458,4 +458,3 @@ var result2 = salaryService.CalculateCompensationPackage(contractorData);
 
 This Dynamic Model Builder provides a powerful foundation for building flexible, maintainable applications that can evolve with changing business requirements while maintaining robust, fault-tolerant operation.
 
-Similar code found with 2 license types
